@@ -47,6 +47,7 @@ ul li a {
 
 ul li a:hover {
     font-weight: bold;
+    opacity: 1;
 }
 
 h1, ul {
