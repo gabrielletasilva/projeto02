@@ -9,7 +9,7 @@ A página web criada neste projeto é uma simples e moderna página de apresenta
 
 Tecnologias Utilizadas
 
-HTML5 CSS3
+HTML5 CSS3 Figma
 
 Funcionalidades da página
 
